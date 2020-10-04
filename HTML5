@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - GeoMetricss</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="wrapper">
+    
+  <header class="top">
+    <h1><a href="#" title="Katosnap">Geo Metrict</a></h1>
+  </header>
+
+  <nav class="flex-nav">
+    <a href="#" class="toggleNav"><i class="fa fa-bars"></i> Menu</a>
+    <ul>
+      <li><a href="#" title="Home">Home</a></li>
+      <li><a href="#" title="About">About</a></li>
+      <li><a href="#" title="Work">Help</a></li>
+      <li><a href="#" title="Services">Services</a></li>
+      <li><a href="#" title="Contact">Contact</a></li>
+      <li class="social">
+        <a href="" title="Twitter"><i class="fa fa-twitter"></i></a>
+      </li>
+      <li class="social">
+        <a href="" title="Dribbble"><i class="fa fa-dribbble"></i></a>
+      </li>
+      <li class="social">
+        <a href="https://github.com/brandoncmendoza/GeoMetrict" title="GitHub"><i class="fa fa-github"></i></a>
+      </li>
+      <li class="social">
+        <a href="https://github.com/brandoncmendoza/GeoMetrict" title="Instagram"><i class="fa fa-instagram"></i></a>
+      </li>
+    </ul>
+  </nav>
+
+  <section class="gallery">
+    <ul>
+      <li class="gallery-image">
+        <img src="https://blog.agrosomar.com.br/wp-content/uploads/2019/10/agricultura-4.0-780x450.jpg" alt="Katosnap">
+      </li>
+      <li class="gallery-image">
+        <img src="https://gestagro360.com.br/wp-content/uploads/2019/02/agricultura-4.0gestagro.jpg" alt="Katosnap">
+      </li>
+      <li class="gallery-image">
+        <img src="https://blog.agromove.com.br/wp-content/uploads/2020/02/tstip.jpg" alt="Katosnap">
+      </li>
+      <li class="gallery-image">
+        <img src="https://www.comunitelia.com/fileadmin/media/ficheros_para_paginas/soluciones_smart/smart_agro/imagenes/ventajas_de_smart_agro.jpg" alt="Katosnap">
+      </li>
+      <li class="gallery-image">
+        <img src="https://digitalagro.com.br/wp-content/uploads/2020/04/sustent%C3%A1vel.jpg" alt="Katosnap">
+      </li>
+      <li class="gallery-image">
+        <img src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1000,h_600/https://elceo.com/wp-content/uploads/2020/07/agricultura_tecno-1.jpg" alt="Katosnap">
+      </li>
+    </ul>
+  </section>
+
+  <section class="details">
+    <h2>Sign up today for the latest updates!</h2>
+    <form action="" class="signup">
+      <input type="text" placeholder="Your Name">
+      <input type="email" placeholder="Email Address">
+      <input type="submit" value="Sign Up">
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; Brandon Caillahua Mendoza</p>
+  </footer>
+
+</div>
+<!-- partial -->
+  <script src='https://code.jquery.com/jquery-3.2.1.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
