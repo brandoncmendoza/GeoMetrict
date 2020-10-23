@@ -29,6 +29,8 @@
         <a href="" title="Dribbble"><i class="fa fa-dribbble"></i></a>
       </li>
       <li class="social">
+         
+        
         <a href="https://github.com/brandoncmendoza/GeoMetrict" title="GitHub"><i class="fa fa-github"></i></a>
       </li>
       <li class="social">
@@ -36,6 +38,17 @@
       </li>
     </ul>
   </nav>
+  
+  
+  <center>
+  <iframe
+          
+          width="1000" height="1000" frameborder="0" scrolling="yes"
+          src="https://worldview.earthdata.nasa.gov/?v=-34.041649859002995,18.792958635980444,49.14025394972533,58.3043629451264&l=MODIS_Aqua_L3_Land_Surface_Temp_8Day_Night,NDH_Drought_Proportional_Economic_Loss_Risk_Deciles_2000,NDH_Drought_Mortality_Risks_Distribution_2000,NDH_Drought_Hazard_Frequency_Distribution_1980-2000,Reference_Labels(hidden),Reference_Features(hidden),Coastlines,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor"> </iframe>
+</body>
+  </center>
+  
+  
 
   <section class="gallery">
     <ul>
@@ -68,6 +81,9 @@
       <input type="submit" value="Sign Up">
     </form>
   </section>
+  
+  
+ 
 
   <footer>
     <p>&copy; Brandon Caillahua Mendoza</p>
@@ -79,3 +95,5 @@
 
 </body>
 </html>
+
+
